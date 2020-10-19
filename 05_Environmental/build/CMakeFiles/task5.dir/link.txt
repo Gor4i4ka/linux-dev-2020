@@ -1,0 +1,1 @@
+/usr/bin/cc   -rdynamic CMakeFiles/task5.dir/task5.c.o  -o task5 -lncursesw -lpcre2-8 

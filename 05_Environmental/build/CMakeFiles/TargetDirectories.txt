@@ -1,0 +1,4 @@
+/home/gorchichka/linux-dev-2020/05_Environmental/build/CMakeFiles/rebuild_cache.dir
+/home/gorchichka/linux-dev-2020/05_Environmental/build/CMakeFiles/edit_cache.dir
+/home/gorchichka/linux-dev-2020/05_Environmental/build/CMakeFiles/task5.dir
+/home/gorchichka/linux-dev-2020/05_Environmental/build/CMakeFiles/allclean.dir
