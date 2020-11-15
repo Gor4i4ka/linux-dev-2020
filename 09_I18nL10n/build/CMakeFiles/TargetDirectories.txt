@@ -1,0 +1,9 @@
+/home/nick/linux-dev-2020/09_I18nL10n/build/CMakeFiles/rebuild_cache.dir
+/home/nick/linux-dev-2020/09_I18nL10n/build/CMakeFiles/edit_cache.dir
+/home/nick/linux-dev-2020/09_I18nL10n/build/CMakeFiles/update_po.dir
+/home/nick/linux-dev-2020/09_I18nL10n/build/CMakeFiles/allclean.dir
+/home/nick/linux-dev-2020/09_I18nL10n/build/po/CMakeFiles/rebuild_cache.dir
+/home/nick/linux-dev-2020/09_I18nL10n/build/po/CMakeFiles/edit_cache.dir
+/home/nick/linux-dev-2020/09_I18nL10n/build/src/CMakeFiles/rebuild_cache.dir
+/home/nick/linux-dev-2020/09_I18nL10n/build/src/CMakeFiles/task9.dir
+/home/nick/linux-dev-2020/09_I18nL10n/build/src/CMakeFiles/edit_cache.dir

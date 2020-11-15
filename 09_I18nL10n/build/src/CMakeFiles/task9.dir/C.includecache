@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/nick/linux-dev-2020/09_I18nL10n/src/task9.c
+stdio.h
+/home/nick/linux-dev-2020/09_I18nL10n/src/stdio.h
+string.h
+/home/nick/linux-dev-2020/09_I18nL10n/src/string.h
+stdlib.h
+/home/nick/linux-dev-2020/09_I18nL10n/src/stdlib.h
+libintl.h
+-
+locale.h
+-
+
