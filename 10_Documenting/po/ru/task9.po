@@ -1,0 +1,77 @@
+# Russian translations for linux-dev package.
+# Copyright (C) 2020 THE linux-dev'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the linux-dev package.
+# Gorchichka <nick@kudahter>, 2020.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: linux-dev 2020\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-11-22 22:09+0300\n"
+"PO-Revision-Date: 2020-11-22 19:17+0300\n"
+"Last-Translator: Gorchichka <nick@kudahter>\n"
+"Language-Team: Russian\n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+
+#. User invitation
+#: /home/nick/linux-dev-2020/10_Documenting/src/task9.c:133
+#, c-format
+msgid "Guess a number in [1, 100] range\n"
+msgstr "Загадайте число в сегменте [1, 100]\n"
+
+#: /home/nick/linux-dev-2020/10_Documenting/src/task9.c:155
+#, c-format
+msgid "Incorrect answer input\n"
+msgstr "Неправильный ввод ответа\n"
+
+#: /home/nick/linux-dev-2020/10_Documenting/src/task9.c:150
+#, c-format
+msgid "Is your number more than %s? (yes/no)\n"
+msgstr "Ваше число больше чем %s? (да/нет)\n"
+
+#: /home/nick/linux-dev-2020/10_Documenting/src/task9.c:147
+#, c-format
+msgid "Is your number more than %u? (yes/no)\n"
+msgstr "Ваше число больше чем %u? (да/нет)\n"
+
+#: /home/nick/linux-dev-2020/10_Documenting/src/task9.c:169
+#, c-format
+msgid "Never reaches here\n"
+msgstr "Код недостижим\n"
+
+#: /home/nick/linux-dev-2020/10_Documenting/src/task9.c:179
+#, c-format
+msgid "Your number is %s\n"
+msgstr "Ваше число есть %s\n"
+
+#: /home/nick/linux-dev-2020/10_Documenting/src/task9.c:176
+#, c-format
+msgid "Your number is %u\n"
+msgstr "Ваше число есть %u\n"
+
+#: /home/nick/linux-dev-2020/10_Documenting/src/task9.c:164
+msgid "no\n"
+msgstr "нет\n"
+
+#: /home/nick/linux-dev-2020/10_Documenting/src/task9.c:120
+#, c-format
+msgid "wrong parameter. Use --help\n"
+msgstr "Неправильный параметр. Используйте --help\n"
+
+#: /home/nick/linux-dev-2020/10_Documenting/src/task9.c:159
+msgid "yes\n"
+msgstr "да\n"
+
+#~ msgid ""
+#~ "task9 --- The programm to guess a number in [1,100] (roman supported)\n"
+#~ "\n"
+#~ "Usage: task9 [OPTION]\n"
+#~ "\n"
+#~ "\t--help\tprint this message, then exit\n"
+#~ "\t-r\tswitch to roman counting system\n"
+#~ msgstr "Сосамба\n"

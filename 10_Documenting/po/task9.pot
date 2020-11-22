@@ -1,0 +1,67 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-11-22 22:09+0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. User invitation
+#: /home/nick/linux-dev-2020/10_Documenting/src/task9.c:133
+#, c-format
+msgid "Guess a number in [1, 100] range\n"
+msgstr ""
+
+#: /home/nick/linux-dev-2020/10_Documenting/src/task9.c:155
+#, c-format
+msgid "Incorrect answer input\n"
+msgstr ""
+
+#: /home/nick/linux-dev-2020/10_Documenting/src/task9.c:150
+#, c-format
+msgid "Is your number more than %s? (yes/no)\n"
+msgstr ""
+
+#: /home/nick/linux-dev-2020/10_Documenting/src/task9.c:147
+#, c-format
+msgid "Is your number more than %u? (yes/no)\n"
+msgstr ""
+
+#: /home/nick/linux-dev-2020/10_Documenting/src/task9.c:169
+#, c-format
+msgid "Never reaches here\n"
+msgstr ""
+
+#: /home/nick/linux-dev-2020/10_Documenting/src/task9.c:179
+#, c-format
+msgid "Your number is %s\n"
+msgstr ""
+
+#: /home/nick/linux-dev-2020/10_Documenting/src/task9.c:176
+#, c-format
+msgid "Your number is %u\n"
+msgstr ""
+
+#: /home/nick/linux-dev-2020/10_Documenting/src/task9.c:164
+msgid "no\n"
+msgstr ""
+
+#: /home/nick/linux-dev-2020/10_Documenting/src/task9.c:120
+#, c-format
+msgid "wrong parameter. Use --help\n"
+msgstr ""
+
+#: /home/nick/linux-dev-2020/10_Documenting/src/task9.c:159
+msgid "yes\n"
+msgstr ""
