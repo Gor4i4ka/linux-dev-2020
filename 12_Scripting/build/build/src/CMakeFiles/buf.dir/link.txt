@@ -1,0 +1,2 @@
+/usr/bin/ar qc ../../lib/libbuf.a CMakeFiles/buf.dir/buf.c.o
+/usr/bin/ranlib ../../lib/libbuf.a

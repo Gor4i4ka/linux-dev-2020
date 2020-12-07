@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/nick/linux-dev-2020/12_Scripting/src/coverage.c
+stdio.h
+/home/nick/linux-dev-2020/12_Scripting/src/stdio.h
+string.h
+/home/nick/linux-dev-2020/12_Scripting/src/string.h
+stdlib.h
+/home/nick/linux-dev-2020/12_Scripting/src/stdlib.h
+

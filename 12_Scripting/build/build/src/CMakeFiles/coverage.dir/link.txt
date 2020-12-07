@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/coverage.dir/coverage.c.o -o ../../bin/coverage 

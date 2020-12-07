@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/buf.h
+stddef.h
+-
+stdlib.h
+-
+stdio.h
+-
+stdint.h
+-
+
+/home/nick/linux-dev-2020/12_Scripting/src/buf.c
+buf.h
+/home/nick/linux-dev-2020/12_Scripting/src/buf.h
+

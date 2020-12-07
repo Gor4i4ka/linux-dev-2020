@@ -1,0 +1,16 @@
+/home/nick/linux-dev-2020/12_Scripting/build/CMakeFiles/rebuild_cache.dir
+/home/nick/linux-dev-2020/12_Scripting/build/CMakeFiles/edit_cache.dir
+/home/nick/linux-dev-2020/12_Scripting/build/CMakeFiles/test.dir
+/home/nick/linux-dev-2020/12_Scripting/build/CMakeFiles/allclean.dir
+/home/nick/linux-dev-2020/12_Scripting/build/CMakeFiles/comment_addition.dir
+/home/nick/linux-dev-2020/12_Scripting/build/build/src/CMakeFiles/edit_cache.dir
+/home/nick/linux-dev-2020/12_Scripting/build/build/src/CMakeFiles/test.dir
+/home/nick/linux-dev-2020/12_Scripting/build/build/src/CMakeFiles/coverage.dir
+/home/nick/linux-dev-2020/12_Scripting/build/build/src/CMakeFiles/rebuild_cache.dir
+/home/nick/linux-dev-2020/12_Scripting/build/build/src/CMakeFiles/buf.dir
+/home/nick/linux-dev-2020/12_Scripting/build/build/tests/CMakeFiles/rebuild_cache.dir
+/home/nick/linux-dev-2020/12_Scripting/build/build/tests/CMakeFiles/edit_cache.dir
+/home/nick/linux-dev-2020/12_Scripting/build/build/tests/CMakeFiles/test.dir
+/home/nick/linux-dev-2020/12_Scripting/build/build/tests/CMakeFiles/test1.dir
+/home/nick/linux-dev-2020/12_Scripting/build/build/tests/CMakeFiles/test3.dir
+/home/nick/linux-dev-2020/12_Scripting/build/build/tests/CMakeFiles/test2.dir
