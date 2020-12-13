@@ -1,0 +1,53 @@
+# Russian translations for  09_I18nL10n package.
+# Copyright (C) 2020 THE  09_I18nL10n'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the  09_I18nL10n package.
+# Gorchichka <nick@kudahter>, 2020.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version:  09_I18nL10n\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-12-13 14:54+0300\n"
+"PO-Revision-Date: 2020-11-15 22:55+0300\n"
+"Last-Translator: Gorchichka <nick@kudahter>\n"
+"Language-Team: Russian\n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+
+#. User invitation
+#: /home/nick/linux-dev-2020/13_PatchInstall/src/task9.c:23
+#, c-format
+msgid "Guess a number in [1, 100] range\n"
+msgstr "Загадайте число в сегменте [1, 100]\n"
+
+#: /home/nick/linux-dev-2020/13_PatchInstall/src/task9.c:42
+#, c-format
+msgid "Incorrect answer input\n"
+msgstr "Некорректный ввод ответа\n"
+
+#: /home/nick/linux-dev-2020/13_PatchInstall/src/task9.c:36
+#, c-format
+msgid "Is your number more than %u? (yes/no)\n"
+msgstr "Ваше число больше чем %u? (да/нет)\n"
+
+#: /home/nick/linux-dev-2020/13_PatchInstall/src/task9.c:56
+#, c-format
+msgid "Never reaches here\n"
+msgstr "Никогда не достигает точки\n"
+
+#: /home/nick/linux-dev-2020/13_PatchInstall/src/task9.c:63
+#, c-format
+msgid "Your number is %u\n"
+msgstr "Ваше число есть &u\n"
+
+#: /home/nick/linux-dev-2020/13_PatchInstall/src/task9.c:51
+msgid "no\n"
+msgstr "нет\n"
+
+#: /home/nick/linux-dev-2020/13_PatchInstall/src/task9.c:46
+msgid "yes\n"
+msgstr "да\n"

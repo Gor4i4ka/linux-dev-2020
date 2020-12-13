@@ -1,0 +1,52 @@
+# English translations for  09_I18nL10n package.
+# Copyright (C) 2020 THE  09_I18nL10n'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the  09_I18nL10n package.
+# Gorchichka <nick@kudahter>, 2020.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version:  09_I18nL10n\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-12-13 14:54+0300\n"
+"PO-Revision-Date: 2020-11-15 23:02+0300\n"
+"Last-Translator: Gorchichka <nick@kudahter>\n"
+"Language-Team: English\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=ASCII\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. User invitation
+#: /home/nick/linux-dev-2020/13_PatchInstall/src/task9.c:23
+#, c-format
+msgid "Guess a number in [1, 100] range\n"
+msgstr "Guess a number in [1, 100] range\n"
+
+#: /home/nick/linux-dev-2020/13_PatchInstall/src/task9.c:42
+#, c-format
+msgid "Incorrect answer input\n"
+msgstr "Incorrect answer input\n"
+
+#: /home/nick/linux-dev-2020/13_PatchInstall/src/task9.c:36
+#, c-format
+msgid "Is your number more than %u? (yes/no)\n"
+msgstr "Is your number more than %u? (yes/no)\n"
+
+#: /home/nick/linux-dev-2020/13_PatchInstall/src/task9.c:56
+#, c-format
+msgid "Never reaches here\n"
+msgstr "Never reaches here\n"
+
+#: /home/nick/linux-dev-2020/13_PatchInstall/src/task9.c:63
+#, c-format
+msgid "Your number is %u\n"
+msgstr "Your number is %u\n"
+
+#: /home/nick/linux-dev-2020/13_PatchInstall/src/task9.c:51
+msgid "no\n"
+msgstr "no\n"
+
+#: /home/nick/linux-dev-2020/13_PatchInstall/src/task9.c:46
+msgid "yes\n"
+msgstr "yes\n"
